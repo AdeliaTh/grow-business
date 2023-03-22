@@ -1,0 +1,78 @@
+#header {
+    background:  #3374ff;
+    color: white;
+}
+
+#header ul {
+    list-style: none;
+}
+
+#header li {
+    font-size: 10px;
+}
+
+#header span {
+    font-size: 10px;
+}
+
+#nav {
+    color: #3374ff; 
+    list-style: none;
+}
+
+#nav span {
+    font-size: 20px;
+}
+
+#nav li {
+    text-transform: uppercase;
+    font-size: 10px;
+} 
+
+#content {
+    box-sizing: border-box;
+    color: white;
+}
+
+#about {
+    color: black;
+}
+
+#about p {
+    font-size: 13px;
+} 
+
+#about .two-thirds {
+    border-left: 2px blue solid;
+}
+
+#footer {
+    color:black;
+}
+
+.icon {
+    color: blue;
+}
+
+h1,  h2, h3, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 34px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+}
+
+p .reason .one-third {
+    font-size: 12px;
+}
