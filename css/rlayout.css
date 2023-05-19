@@ -123,3 +123,26 @@ footer ul {
  .contact li {
     margin-right: 10px;
  }
+ 
+ @media only screen and (min-width: 1200px) {
+    header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        /* display: inline-block; */
+    }
+
+    .logo {
+        margin-left: 35px;
+    }
+
+    nav {
+        margin-right: 40px;
+    }
+    
+    nav li {
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 15px;
+    }
+}
